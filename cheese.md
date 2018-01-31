@@ -5,10 +5,12 @@
 
 - Emmentaler
 - Brie
-- list here ingredients
+- Cottage cheese
+- Cream cheese
+- Gruyere
 
 ## Instructions
 
-- list here instructions
-- list here instructions
-- list here instructions
+- Unpack cheese
+- Place on platters in a nice way
+- Add cutting equipment (depending on the cheese)

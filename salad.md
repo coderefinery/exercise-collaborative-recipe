@@ -1,14 +1,16 @@
 
-# Replace this line by the title
+# Salad
 
 ## Ingredients
 
-- list here ingredients
-- list here ingredients
-- list here ingredients
+- olive oil
+- salt
+- pepper
+- parmesan
+- ruccola
+- tomato
+- bell pepper
 
 ## Instructions
 
-- list here instructions
-- list here instructions
-- list here instructions
+- mix well

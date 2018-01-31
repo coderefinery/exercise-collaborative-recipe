@@ -7,7 +7,8 @@
 - Brie
 - Cottage cheese
 - Cream cheese
-- Gruyere
+- Gruyére
+- Camembert
 
 
 ## Instructions
@@ -16,3 +17,4 @@
 - Place on platters in a nice way
 - Add cutting equipment (depending on the cheese)
 - Any kind of blue cheese is prohibited
+

@@ -1,14 +1,20 @@
 
-# Replace this line by the title
+# Cheese platter
 
 ## Ingredients
 
-- list here ingredients
-- list here ingredients
-- list here ingredients
+- Emmentaler
+- Brie
+- Cottage cheese
+- Cream cheese
+- Gruyére
+- Camembert
+
 
 ## Instructions
 
-- list here instructions
-- list here instructions
-- list here instructions
+- Unpack cheese
+- Place on platters in a nice way
+- Add cutting equipment (depending on the cheese)
+- Any kind of blue cheese is prohibited
+

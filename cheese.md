@@ -1,10 +1,10 @@
 
-# Replace this line by the title
+# Cheese platter
 
 ## Ingredients
 
-- list here ingredients
-- list here ingredients
+- Emmentaler
+- Brie
 - list here ingredients
 
 ## Instructions

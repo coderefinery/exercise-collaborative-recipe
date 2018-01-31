@@ -9,6 +9,7 @@
 - parmesan
 - ruccola
 - tomato
+- bell pepper
 
 ## Instructions
 

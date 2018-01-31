@@ -14,4 +14,4 @@
 
 - start choping and fryin the onion
 - throw everythin in the bowl and cook until not recognisable anymore
-- serve with Chardonay
+- serve with Chardonay 

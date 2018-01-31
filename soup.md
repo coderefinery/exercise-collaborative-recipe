@@ -1,14 +1,17 @@
 
-# Replace this line by the title
+# Fish soupr recepie
 
 ## Ingredients
 
-- list here ingredients
-- list here ingredients
-- list here ingredients
+- 500 g fresh fish
+- 500 g lobster shells
+- 1 bunch parsille
+- 50 g butter
+- 1 g saffran
+- 1 onion
 
 ## Instructions
 
-- list here instructions
-- list here instructions
-- list here instructions
+- start choping and fryin the onion
+- throw everythin in the bowl and cook until not recognisable anymore
+- serve with Chardonay
